@@ -1,4 +1,4 @@
-# *Fill in the blanks in each of the following statements.*
+# **Fill in the blanks in each of the following statements.**
 
 **a)** The technique of ***visual programming*** allows you to create GUIs without writing any code.
 
