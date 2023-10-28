@@ -46,7 +46,7 @@
     - [x] Note Regarding Exercise 2.10
     - [x] Note Regarding Exercise 2.11
 
-- [ ] Chapter 3 - Introduction to C# App Programming
+- [x] Chapter 3 - Introduction to C# App Programming
     - [x] Self Review Exercise 3.1
     - [x] Self Review Exercise 3.2
     - [x] Self Review Exercise 3.3
@@ -73,9 +73,9 @@
     - [x] Exercise 3.24
     - [x] Exercise 3.25
     - [x] Exercise 3.26
-    - [ ] Exercise 3.27
-    - [ ] Exercise 3.28
-    - [ ] Exercise 3.29
-    - [ ] Exercise 3.30
-    - [ ] Making a Difference Exercise 3.31
-    - [ ] Making a Difference Exercise 3.32
+    - [x] Exercise 3.27
+    - [x] Exercise 3.28
+    - [x] Exercise 3.29
+    - [x] Exercise 3.30
+    - [x] Making a Difference Exercise 3.31
+    - [x] Making a Difference Exercise 3.32
