@@ -1,2 +1,81 @@
-# CSIT-Visual-Programming
-My visual programming lessons notes
+# CSIT - Visual Programming
+
+## **Index**
+
+- [ ] Chapter 1 - Introduction to Computers, the Internet and Visual C#
+    - [x] Self Review Exercise 1.1
+    - [ ] Self Review Exercise 1.2
+    - [ ] Self Review Exercise 1.3
+    - [ ] Self Review Exercise 1.4
+    - [ ] Self Review Exercise 1.5
+    - [ ] Self Review Exercise 1.6
+    - [ ] Exercise 1.7
+    - [ ] Exercise 1.8
+    - [ ] Exercise 1.9
+    - [ ] Exercise 1.10
+    - [ ] Exercise 1.11
+    - [ ] Exercise 1.12
+    - [ ] Exercise 1.13
+    - [ ] Exercise 1.14
+    - [ ] Exercise 1.15
+    - [ ] Exercise 1.16
+    - [ ] Exercise 1.17
+    - [ ] Exercise 1.18
+    - [ ] Exercise 1.19
+    - [ ] Exercise 1.20
+    - [ ] Exercise 1.21
+    - [ ] Exercise 1.22
+    - [ ] Exercise 1.23
+    - [ ] Exercise 1.24
+    - [ ] Exercise 1.25
+    - [ ] Making a Difference Exercise 1.26
+    - [ ] Making a Difference Exercise 1.27
+    - [ ] Making a Difference Exercise 1.28
+    - [ ] Making a Difference Exercise 1.29
+
+- [x] Chapter 2 - Introduction to Visual Studio and Visual Programming
+    - [x] Self Review Exercise 2.1
+    - [x] Self Review Exercise 2.2
+    - [x] Exercise 2.3
+    - [x] Exercise 2.4
+    - [x] Exercise 2.5
+    - [x] Exercise 2.6
+    - [x] Note Regarding Exercise 2.7
+    - [x] Note Regarding Exercise 2.8
+    - [x] Note Regarding Exercise 2.9
+    - [x] Note Regarding Exercise 2.10
+    - [x] Note Regarding Exercise 2.11
+
+- [ ] Chapter 3 - Introduction to C# App Programming
+    - [x] Self Review Exercise 3.1
+    - [x] Self Review Exercise 3.2
+    - [x] Self Review Exercise 3.3
+    - [x] Self Review Exercise 3.4
+    - [x] Self Review Exercise 3.5
+    - [x] Self Review Exercise 3.6
+    - [ ] Exercise 3.7
+    - [ ] Exercise 3.8
+    - [ ] Exercise 3.9
+    - [ ] Exercise 3.10
+    - [ ] Exercise 3.11
+    - [ ] Exercise 3.12
+    - [ ] Exercise 3.13
+    - [ ] Exercise 3.14
+    - [ ] Exercise 3.15
+    - [ ] Exercise 3.16
+    - [ ] Exercise 3.17
+    - [ ] Exercise 3.18
+    - [ ] Exercise 3.19
+    - [ ] Exercise 3.20
+    - [ ] Exercise 3.21
+    - [ ] Exercise 3.22
+    - [ ] Exercise 3.23
+    - [ ] Exercise 3.24
+    - [ ] Exercise 3.25
+    - [ ] Exercise 3.26
+    - [ ] Exercise 3.27
+    - [ ] Exercise 3.28
+    - [ ] Exercise 3.29
+    - [ ] Exercise 3.30
+    - [ ] Making a Difference Exercise 3.31
+    - [ ] Making a Difference Exercise 3.32
