@@ -79,3 +79,20 @@
     - [x] Exercise 3.30
     - [x] Making a Difference Exercise 3.31
     - [x] Making a Difference Exercise 3.32
+
+- [x] Chapter 4 - Introduction to Classes, Objects, Methods and strings
+    - [ ] Self Review Exercise 4.1
+    - [ ] Self Review Exercise 2.2
+    - [ ] Self Review Exercise 4.3
+    - [ ] Self Review Exercise 4.4
+    - [ ] Exercise 4.5
+    - [ ] Exercise 4.6
+    - [ ] Exercise 4.7
+    - [ ] Exercise 4.8
+    - [x] Exercise 4.9
+    - [x] Exercise 4.10
+    - [x] Exercise 4.11
+    - [x] Exercise 4.12
+    - [x] Exercise 4.13
+    - [x] Making a Difference Exercise 4.14
+    - [x] Making a Difference Exercise 4.15
