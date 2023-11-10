@@ -1,5 +1,7 @@
 # CSIT - Visual Programming
 
+[![wakatime](https://wakatime.com/badge/github/karsterr/CSIT-Visual-Programming.svg)](https://wakatime.com/badge/github/karsterr/CSIT-Visual-Programming)
+
 ## **Index**
 
 - [ ] Chapter 1 - Introduction to Computers, the Internet and Visual C#
