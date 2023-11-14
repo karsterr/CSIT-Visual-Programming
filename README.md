@@ -6,11 +6,11 @@
 
 - [ ] Chapter 1 - Introduction to Computers, the Internet and Visual C#
     - [x] Self Review Exercise 1.1
-    - [ ] Self Review Exercise 1.2
-    - [ ] Self Review Exercise 1.3
-    - [ ] Self Review Exercise 1.4
-    - [ ] Self Review Exercise 1.5
-    - [ ] Self Review Exercise 1.6
+    - [x] Self Review Exercise 1.2
+    - [x] Self Review Exercise 1.3
+    - [x] Self Review Exercise 1.4
+    - [x] Self Review Exercise 1.5
+    - [x] Self Review Exercise 1.6
     - [ ] Exercise 1.7
     - [ ] Exercise 1.8
     - [ ] Exercise 1.9
