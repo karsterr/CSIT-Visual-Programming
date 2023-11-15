@@ -4,97 +4,42 @@
 
 ## **Index**
 
-- [ ] Chapter 1 - Introduction to Computers, the Internet and Visual C#
-    - [x] Self Review Exercise 1.1
-    - [x] Self Review Exercise 1.2
-    - [x] Self Review Exercise 1.3
-    - [x] Self Review Exercise 1.4
-    - [x] Self Review Exercise 1.5
-    - [x] Self Review Exercise 1.6
-    - [ ] Exercise 1.7
-    - [ ] Exercise 1.8
-    - [ ] Exercise 1.9
-    - [ ] Exercise 1.10
-    - [ ] Exercise 1.11
-    - [ ] Exercise 1.12
-    - [ ] Exercise 1.13
-    - [ ] Exercise 1.14
-    - [ ] Exercise 1.15
-    - [ ] Exercise 1.16
-    - [ ] Exercise 1.17
-    - [ ] Exercise 1.18
-    - [ ] Exercise 1.19
-    - [ ] Exercise 1.20
-    - [ ] Exercise 1.21
-    - [ ] Exercise 1.22
-    - [ ] Exercise 1.23
-    - [ ] Exercise 1.24
-    - [ ] Exercise 1.25
-    - [ ] Making a Difference Exercise 1.26
-    - [ ] Making a Difference Exercise 1.27
-    - [ ] Making a Difference Exercise 1.28
-    - [ ] Making a Difference Exercise 1.29
+- [x] Chapter 1 - Introduction to Computers, the Internet and Visual C#
+    - [x] Self Review Exercises
+    - [x] Exercises
+
 
 - [x] Chapter 2 - Introduction to Visual Studio and Visual Programming
-    - [x] Self Review Exercise 2.1
-    - [x] Self Review Exercise 2.2
-    - [x] Exercise 2.3
-    - [x] Exercise 2.4
-    - [x] Exercise 2.5
-    - [x] Exercise 2.6
-    - [x] Note Regarding Exercise 2.7
-    - [x] Note Regarding Exercise 2.8
-    - [x] Note Regarding Exercise 2.9
-    - [x] Note Regarding Exercise 2.10
-    - [x] Note Regarding Exercise 2.11
+    - [x] Self Review Exercises
+    - [x] Exercises
+    - [x] Note Regarding Exercises
 
-- [x] Chapter 3 - Introduction to C# App Programming
-    - [x] Self Review Exercise 3.1
-    - [x] Self Review Exercise 3.2
-    - [x] Self Review Exercise 3.3
-    - [x] Self Review Exercise 3.4
-    - [x] Self Review Exercise 3.5
-    - [x] Self Review Exercise 3.6
-    - [x] Exercise 3.7
-    - [x] Exercise 3.8
-    - [x] Exercise 3.9
-    - [x] Exercise 3.10
-    - [x] Exercise 3.11
-    - [x] Exercise 3.12
-    - [x] Exercise 3.13
-    - [x] Exercise 3.14
-    - [x] Exercise 3.15
-    - [x] Exercise 3.16
-    - [x] Exercise 3.17
-    - [x] Exercise 3.18
-    - [x] Exercise 3.19
-    - [x] Exercise 3.20
-    - [x] Exercise 3.21
-    - [x] Exercise 3.22
-    - [x] Exercise 3.23
-    - [x] Exercise 3.24
-    - [x] Exercise 3.25
-    - [x] Exercise 3.26
-    - [x] Exercise 3.27
-    - [x] Exercise 3.28
-    - [x] Exercise 3.29
-    - [x] Exercise 3.30
-    - [x] Making a Difference Exercise 3.31
-    - [x] Making a Difference Exercise 3.32
+- [ ] Chapter 3 - Introduction to C# App Programming
+    - [ ] Chapter Examples
+    - [x] Self Review Exercises
+    - [x] Exercises
+    - [x] Making a Difference Exercises
 
-- [x] Chapter 4 - Introduction to Classes, Objects, Methods and strings
-    - [ ] Self Review Exercise 4.1
-    - [ ] Self Review Exercise 2.2
-    - [ ] Self Review Exercise 4.3
-    - [ ] Self Review Exercise 4.4
-    - [ ] Exercise 4.5
-    - [ ] Exercise 4.6
-    - [ ] Exercise 4.7
-    - [ ] Exercise 4.8
-    - [x] Exercise 4.9
-    - [x] Exercise 4.10
-    - [x] Exercise 4.11
-    - [x] Exercise 4.12
-    - [x] Exercise 4.13
-    - [x] Making a Difference Exercise 4.14
-    - [x] Making a Difference Exercise 4.15
+- [ ] Chapter 4 - Introduction to Classes, Objects, Methods and strings
+    - [ ] Chapter Examples
+    - [ ] Self Review Exercises
+    - [ ] Exercises
+    - [ ] Making a Difference Exercises
+
+- [ ] Chapter 5 - Algorithm Development and Control Statements - Part 1
+    - [ ] Chapter Examples
+    - [ ] Self Review Exercises
+    - [ ] Exercises
+    - [ ] Making a Difference Exercises
+
+- [ ] Chapter 5 - Algorithm Development and Control Statements - Part 2
+    - [ ] Chapter Examples
+    - [ ] Self Review Exercises
+    - [ ] Exercises
+    - [ ] Making a Difference Exercises
+
+- [ ] Chapter 7 - Methods A Deeper Look
+    - [x] Chapter Examples
+    - [ ] Self Review Exercises
+    - [ ] Exercises
+    - [ ] Making a Difference Exercises
