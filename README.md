@@ -22,7 +22,7 @@
 
 - [ ] Chapter 4 - Introduction to Classes, Objects, Methods and strings
     - [ ] Chapter Examples
-    - [ ] Self Review Exercises
+    - [x] Self Review Exercises
     - [x] Exercises
     - [x] Making a Difference Exercises
 
