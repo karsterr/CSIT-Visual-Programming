@@ -2,7 +2,7 @@
 
 class AccountTest{
     static void Main(){
-        Account account1 = new Account();
+        Account myAccount = new Account();
         Console.WriteLine($"Initial name is: {myAccount.GetName()}");
         
         Console.Write("Enter the name: ");
