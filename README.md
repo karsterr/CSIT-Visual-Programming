@@ -26,8 +26,8 @@
     - [x] Exercises
     - [x] Making a Difference Exercises
 
-- [ ] Chapter 5 - Algorithm Development and Control Statements - Part 1
-    - [ ] Chapter Examples
+- [x] Chapter 5 - Algorithm Development and Control Statements - Part 1
+    - [x] Chapter Examples
     - [ ] Self Review Exercises
     - [ ] Exercises
     - [ ] Making a Difference Exercises
