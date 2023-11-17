@@ -14,8 +14,8 @@
     - [x] Exercises
     - [x] Note Regarding Exercises
 
-- [ ] Chapter 3 - Introduction to C# App Programming
-    - [ ] Chapter Examples
+- [x] Chapter 3 - Introduction to C# App Programming
+    - [x] Chapter Examples
     - [x] Self Review Exercises
     - [x] Exercises
     - [x] Making a Difference Exercises
