@@ -20,8 +20,8 @@
     - [x] Exercises
     - [x] Making a Difference Exercises
 
-- [ ] Chapter 4 - Introduction to Classes, Objects, Methods and strings
-    - [ ] Chapter Examples
+- [x] Chapter 4 - Introduction to Classes, Objects, Methods and strings
+    - [x] Chapter Examples
     - [x] Self Review Exercises
     - [x] Exercises
     - [x] Making a Difference Exercises
