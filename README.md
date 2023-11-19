@@ -32,7 +32,7 @@
     - [ ] Exercises
     - [ ] Making a Difference Exercises
 
-- [ ] Chapter 5 - Algorithm Development and Control Statements - Part 2
+- [ ] Chapter 6 - Algorithm Development and Control Statements - Part 2
     - [ ] Chapter Examples
     - [ ] Self Review Exercises
     - [ ] Exercises
