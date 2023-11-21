@@ -40,6 +40,6 @@
 
 - [ ] Chapter 7 - Methods A Deeper Look
     - [x] Chapter Examples
-    - [ ] Self Review Exercises
+    - [x] Self Review Exercises
     - [ ] Exercises
     - [ ] Making a Difference Exercises
