@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Time_Class_Case_Study
+build_property.ProjectDir = /home/karsterr/Programming/karsterr/CSIT/CSIT-Visual-Programming/Chapter 10 Classes and Objects A Deeper Look/10_2 Time Class Case Study; Throwing Exceptions/Time Class Case Study/Time Class Case Study/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
