@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time Class Case Study Throwing Exceptions", "Time Class Case Study Throwing Exceptions\Time Class Case Study Throwing Exceptions.csproj", "{230C8E2F-D72B-4271-B154-E6DF56EC07DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{230C8E2F-D72B-4271-B154-E6DF56EC07DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230C8E2F-D72B-4271-B154-E6DF56EC07DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230C8E2F-D72B-4271-B154-E6DF56EC07DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230C8E2F-D72B-4271-B154-E6DF56EC07DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
