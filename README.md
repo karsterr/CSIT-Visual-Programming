@@ -43,3 +43,29 @@
     - [x] Self Review Exercises
     - [ ] Exercises
     - [ ] Making a Difference Exercises
+
+- [ ] Chapter 8 - Arrays Introduction to
+Exception Handling
+    - [ ] Chapter Examples
+    - [ ] Self Review Exercises
+    - [ ] Exercises
+    - [ ] Making a Difference Exercises
+
+- [ ] Chapter 9 - Methods A Deeper Look
+    - [x] Chapter Examples
+    - [x] Self Review Exercises
+    - [ ] Exercises
+    - [ ] Making a Difference Exercises
+
+- [ ] Chapter 10 - Classes and Objects: A Deeper Look
+    - [ ] Chapter Examples
+    - [ ] Self Review Exercises
+    - [ ] Exercises
+    - [ ] Making a Difference Exercises
+
+- [ ] Chapter 11 - Object-Oriented
+Programming: Inheritance
+    - [ ] Chapter Examples
+    - [ ] Self Review Exercises
+    - [ ] Exercises
+    - [ ] Making a Difference Exercises
